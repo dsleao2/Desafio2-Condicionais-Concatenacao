@@ -1,2 +1,2 @@
 # Desafio2-Condicionais-Concatenacao
- Segundo desafio da aula sobre condicionais e concatenação 
+ Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.
